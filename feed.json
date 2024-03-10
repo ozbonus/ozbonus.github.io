@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ozbonus.github.io/test-02.html",
+            "url": "https://ozbonus.github.io/test-02.html",
+            "title": "Test 02",
+            "summary": "print(\"Hello, world.\")",
+            "content_html": "<pre class=\"line-numbers  language-html\"><code>print(\"Hello, world.\")</code></pre>\n\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://ozbonus.github.io/media/posts/2/banner_white.png\" height=\"2160\" width=\"5162\" alt=\"\"  sizes=\"100vw\" srcset=\"https://ozbonus.github.io/media/posts/2/responsive/banner_white-xs.png 300w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-sm.png 480w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-md.png 768w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-lg.png 1024w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-xl.png 1360w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-2xl.png 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "Chris"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-10T18:04:09+08:00",
+            "date_modified": "2024-03-10T18:04:09+08:00"
+        },
+        {
             "id": "https://ozbonus.github.io/first-post.html",
             "url": "https://ozbonus.github.io/first-post.html",
             "title": "First Post",

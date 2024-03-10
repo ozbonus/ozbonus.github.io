@@ -3,12 +3,37 @@
     <title>CrayonFox</title>
     <link href="https://ozbonus.github.io/feed.xml" rel="self" />
     <link href="https://ozbonus.github.io" />
-    <updated>2024-03-10T17:54:00+08:00</updated>
+    <updated>2024-03-10T18:04:09+08:00</updated>
     <author>
         <name>Chris</name>
     </author>
     <id>https://ozbonus.github.io</id>
 
+    <entry>
+        <title>Test 02</title>
+        <author>
+            <name>Chris</name>
+        </author>
+        <link href="https://ozbonus.github.io/test-02.html"/>
+        <id>https://ozbonus.github.io/test-02.html</id>
+
+        <updated>2024-03-10T18:04:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                    print("Hello, world.")
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="line-numbers  language-html"><code>print("Hello, world.")</code></pre>
+
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://ozbonus.github.io/media/posts/2/banner_white.png" height="2160" width="5162" alt=""  sizes="100vw" srcset="https://ozbonus.github.io/media/posts/2/responsive/banner_white-xs.png 300w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-sm.png 480w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-md.png 768w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-lg.png 1024w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-xl.png 1360w ,https://ozbonus.github.io/media/posts/2/responsive/banner_white-2xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Post</title>
         <author>
