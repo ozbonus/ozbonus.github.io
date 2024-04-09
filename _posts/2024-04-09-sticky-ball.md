@@ -4,12 +4,11 @@ category: [Teaching,Games]
 tags: [esl,game,stickyball]
 summary: An overview of the sticky ball as a classroom resource.
 img_path: /assets/img/
+image: sticky-ball.gif
 ---
 
 > Is your class starting in a few minutes and you just want to find a game to play? Click [HERE](#what-games-can-i-play) to skip to the games.
 {: .prompt-warning }
-
-![Desktop View](stickyball.gif){: .left }
 
 ## Overview
 
