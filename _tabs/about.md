@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Welcome to the blog for [CrayonFox](https://crayonfox.com), which is a nascent software development company focus on educational tools, but the posts you see here will be predominantly written by me, Christopher Perry.
