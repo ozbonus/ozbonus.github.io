@@ -1,6 +1,5 @@
 ---
 title: Sticky Ball Games
-date: 2024-04-09 19:21
 category: [Teaching,Games]
 tags: [esl,game,stickyball]
 summary: An overview of the sticky ball as a classroom resource.
