@@ -6,8 +6,6 @@ img_path: /assets/img/
 image: sticky-ball.gif
 ---
 
-## Overview
-
 Teachers who find themselves pressed for time will find this little ball covered in suctions cups to be a surprisingly flexible and effective tool.
 
 > Is your class starting in a few minutes and you just want to find a game to play? Click [HERE](#what-games-can-i-play) to skip to the games.
