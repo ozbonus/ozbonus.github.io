@@ -2,7 +2,6 @@
 title: Sticky Ball Games
 category: [Teaching,Games]
 tags: [esl,game,stickyball]
-summary: An overview of the sticky ball as a classroom resource.
 img_path: /assets/img/
 image: sticky-ball.gif
 ---
