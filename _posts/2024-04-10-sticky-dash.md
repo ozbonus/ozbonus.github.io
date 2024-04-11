@@ -29,7 +29,7 @@ Sticky Dash is a fast-paced, team-based sticky ball game that adds some exciteme
 1. The teacher tosses the ball to the next student in line.
 1. The process of throwing, speaking, erasing, and lining up repeats until all of the stars are erased. The winning team is the one that was able to clear the board the fastest.
 
-That's a lot of steps! Maybe a visual aid will be helpful.
+## How to play (visual guide)
 
 ![A picture of an apple and pencil three stars below each.](sticky-dash-1.gif)
 
