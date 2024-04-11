@@ -25,7 +25,7 @@ But in reality, particularly in cram schools, you're may find yourself with poss
 
 The simple action of throwing a sticky ball at a target, usually a whiteboard, lends itself to a variety of games that can make class time fun and engaging. Here's a list of games I have played with my students with brief descriptions. Each link leads to a more detailed article.
 
-- **Sticky Dash** (coming soon) is a fast-paced team game that spices up what would otherwise be rote repetition.
+- **[Sticky Dash]({% post_url 2024-04-10-sticky-dash %})** is a fast-paced team game that spices up what would otherwise be rote repetition.
 
 - **Sticky Match** (coming soon) is a quick team game about matching words with definitions.
 
