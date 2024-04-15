@@ -52,10 +52,15 @@ Toss the sticky ball to the next student and continue until all of the stars are
 - Ask students for help drawing the pictures inside of the targets.
 - I usually play the game with a stopwatch the counts upward and conclude the game when all of the stars are gone. However, you could also use a countdown timer and conclude the game when the timer finishes. In that case the team who clears the most stars is the winner.
 - Target areas can elicit some kind of question that the thrower has to ask to the student behind them, who then has to answer before they get to throw the sticky ball and ask a question to the next student, and so on.
-- If you are able to project an image onto the target surface you can update the targets during gameplay. For example, I use the "Flip Cards" feature on Wordwall.
-- The "Flip Tiles" feature on Wordwall (link above) allows an alternate way to keep play. If you are using a device with a touch screen, when a sticky ball hits a target you can swipe the tile and it will flip over. This is like playing with only one star per target, but now after a target has been hit it cannot be hit again. I like to use this for large vocabulary sets.
+- If you are able to project an image onto the target surface you can update the targets during gameplay. For example, I use the "Speaking Cards" feature on Wordwall[^1] (link below).
+- The "Flip Tiles" feature on Wordwall allows an alternate way to keep play. If you are using a device with a touch screen, when a sticky ball hits a target you can swipe the tile and it will flip over. This is like playing with only one star per target, but now after a target has been hit it cannot be hit again. I like to use this for large vocabulary sets.
+
 
 ## Considerations
 
 - Avoid having one student rethrow if they hit an empty target area. At best it slows down the game, and at worst it could stress out a student who isn't great at throwing. If a student hits a target area that has already been cleared of stars, they should still say whatever is prompted by the target area and go line up. If they hit outside of all of the target areas, then point to the nearest one and proceed as though the sticky ball had hit there.
 - All of the other considerations in the main stick ball article still apply!
+
+## External links
+
+[^1]: <https://wordwall.net>
