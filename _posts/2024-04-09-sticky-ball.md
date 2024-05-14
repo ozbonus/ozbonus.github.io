@@ -33,7 +33,7 @@ The simple action of throwing a sticky ball at a target, usually a whiteboard, l
 
 - **Sticky Math** (coming soon) is a slower-paced game about careful aim and math skills.
 
-- **[Typhoon]({% 2024-05-09-typhoon %})** (coming soon) is a slower-paced game where accuracy is paramount. It's mostly just for fun though.
+- **[Typhoon]({% 2024-05-09-typhoon %})** is a slower-paced game where accuracy is paramount. It's mostly just for fun though.
 
 More games are coming soon!
 
