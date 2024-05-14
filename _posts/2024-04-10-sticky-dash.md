@@ -41,7 +41,7 @@ The student at the front of the line throws the sticky ball at one of the target
 
 ![Erasing a star from the board.](sticky-dash-3.gif)
 
-After the students says the correct word or phrase, erase one star from the target area, and have that student rush to the back of the line.
+After the student says the correct word or phrase, erase one star from the target area, and have that student rush to the back of the line.
 
 ![Erasing a star from the board.](sticky-dash-4.gif)
 
@@ -55,11 +55,10 @@ Toss the sticky ball to the next student and continue until all of the stars are
 - If you are able to project an image onto the target surface you can update the targets during gameplay. For example, I use the "Speaking Cards" feature on Wordwall[^1] (link below).
 - The "Flip Tiles" feature on Wordwall allows an alternate way to keep play. If you are using a device with a touch screen, when a sticky ball hits a target you can swipe the tile and it will flip over. This is like playing with only one star per target, but now after a target has been hit it cannot be hit again. I like to use this for large vocabulary sets.
 
-
 ## Considerations
 
 - Avoid having one student rethrow if they hit an empty target area. At best it slows down the game, and at worst it could stress out a student who isn't great at throwing. If a student hits a target area that has already been cleared of stars, they should still say whatever is prompted by the target area and go line up. If they hit outside of all of the target areas, then point to the nearest one and proceed as though the sticky ball had hit there.
-- All of the other considerations in the main stick ball article still apply!
+- All of the other considerations in the main sticky ball article still apply!
 
 ## External links
 
