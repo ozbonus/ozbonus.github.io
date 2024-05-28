@@ -1,12 +1,10 @@
 ---
 title: Flutter Tap Target Size
 category: [Programming,Guide]
-tags: [flutter, guide]
+tags: [flutter, guides]
 img_path: /assets/img/
 image: tap-target-title.webp
 ---
-
-⤷
 
 On mobile platforms you may have noticed that certain kinds of buttons always have some small amount of implicit padding, while on desktop they do not. In this blog post I'll describe why this happens and how you can customize the behavior in your own apps.
 
@@ -80,3 +78,5 @@ MaterialApp(
 ## Wrap-up
 
 Overriding the default tap target size behavior is easy to do, but should you do it? In most cases the default behavior is ideal, but if your app has a highly customized design, then the it may get in the way. Whatever the case, make sure that touch targets are still adequately large for users on touch-input devices.
+
+## External Links
