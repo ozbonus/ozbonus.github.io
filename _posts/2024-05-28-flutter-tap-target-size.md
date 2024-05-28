@@ -54,7 +54,7 @@ You can force this behavior to be always off or on for all platforms by setting 
 ```dart
 MaterialApp(
   theme: ThemeData(
-    materialTapTargetSize: MaterialTapTargetSize.padded,
+    materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
   ),
   // ...
 )
@@ -67,7 +67,7 @@ And this will enable it for all platforms.
 ```dart
 MaterialApp(
   theme: ThemeData(
-    materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+    materialTapTargetSize: MaterialTapTargetSize.padded,
   ),
   // ...
 )
