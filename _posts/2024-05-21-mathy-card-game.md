@@ -115,6 +115,7 @@ I found that cutting the corners differently for each type of card helps tremend
 ## Variations
 
 - Not all operator cards need to be used in a game. For my younger students I do not use exponents or division.
+- I sometimes limit players to one attempt per target number. This is necessary when they keep jumping the gun every time a number card is put down, but they haven't actually thought of a solution yet.
 - The dealer can also participate as a player.
 - It's still fun to play on your own!
 - Points can be shared among teams of players instead of just individuals.
