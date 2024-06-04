@@ -1,6 +1,6 @@
 ---
 title: Mathy Card Game
-category: [Teaching,Resources]
+category: [Teaching,Games]
 tags: [esl,game]
 img_path: /assets/img/
 image: mathy-card-game-preview.webp
