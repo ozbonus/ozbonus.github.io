@@ -29,7 +29,7 @@ The simple action of throwing a sticky ball at a target, usually a whiteboard, l
 
 - **Sticky Match** (coming soon) is a quick team game about matching words with definitions.
 
-- **Sticky Bingo** (coming soon) adds an element of skill to traditional bingo.
+- **[Sticky Bingo]({% post_url 2024-06-04-sticky-bingo %})** adds an element of skill to traditional bingo.
 
 - **Sticky Math** (coming soon) is a slower-paced game about careful aim and math skills.
 
